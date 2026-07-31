@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-8za3h2.ederluiz.com.vc/sitemap.xml
